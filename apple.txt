@@ -2,8 +2,5 @@ apple is delicious
 apple is helthy
 apple is cheep
 apple is fruit
-<<<<<<< HEAD
-master sells apples
-=======
 group1 eat apples
->>>>>>> group1
+
