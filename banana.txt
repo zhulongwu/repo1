@@ -1,1 +1,3 @@
 banana is yellow
+banana is fruit
+banana is soft
